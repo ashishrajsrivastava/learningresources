@@ -34,7 +34,7 @@ To get more information and avail this offer you can click [here](https://www.or
 <br/><br/>
 6. 
 ![RedHat Trainings](/Images/RedHat.PNG)
-Redhat is also offering 30 days free access to many trainings which are worth approximately 10-15k INR. Here is the list of training that you can access free for 30 days. <br/>
+Redhat is also offering 30 days free access to many trainings which are worth approximately 10-15k INR. Here is the list of training that you can access free for 30 days. Click on the training title to avail this offer.<br/>
 
 - [Red Hat Enterprise Linux Technical Overview (RH024)](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview)
 
