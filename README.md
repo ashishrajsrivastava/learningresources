@@ -9,7 +9,7 @@ If you are looking in to start your Azure journey then this is going to be great
 
 2. 
 ![Google Cloud Plateform](/Images/GCP.PNG)
-Google Cloud is also offering similar free resources for trainings. It comes with various technologies path trainings available on pluralsight or coursera. It also gives you free access to Qwiklabs for 30 days which enables to get hands on practice with having to pay anything. You can get more details [here](https://inthecloud.withgoogle.com/training-discount/register.html)
+Google Cloud is also offering similar free resources for trainings. It comes with various technologies path trainings available on pluralsight or coursera. It also gives you free access to Qwiklabs for 30 days which enables to get hands on practice without having to pay anything for a GCP subscription. Qwiklabs is one of the best way to gain practical hands on with GCP, so go grab this offer. You can get more details [here](https://inthecloud.withgoogle.com/training-discount/register.html)
 <br/><br/>
 3. 
 ![PluralSight](/Images/PSApril2020.PNG)
@@ -56,5 +56,4 @@ Real python is giving away following video courses for free:
 - Traditional Face Detection With Python
 - Functional Programming in Python
 - Cool New Features in Python 3.8
-
 To avail this offer click [here](https://realpython.com/redeem/3cfd9bbf-8676-4c82-b44b-93fc69bd4ede/).
