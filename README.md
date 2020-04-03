@@ -44,3 +44,7 @@ Redhat is also offering 30 days free access to many trainings which are worth ap
 - [Red Hat Satellite Technical Overview (RH053)]( https://www.redhat.com/en/services/training/rh053-red-hat-satellite-technical-overview)
 - [Red Hat OpenStack Technical Overview (CL010)](https://www.redhat.com/en/services/training/cl010-red-hat-openstack-technical-overview)
 - [Virtualization and Infrastructure Migration Technical Overview (RH018)](https://www.redhat.com/en/services/training/rh018-virtualization-and-infrastructure-migration-technical-overview)
+<br/><br/>
+7. 
+![Automate the Boring Stuff with Python Programming ](/Images/Udemy_Python_April2020.PNG)
+Udemy is offering course **Automate the Boring Stuff with Python Programming** worth 3200INR absolutely free. Click [here](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) to avail this offer.
