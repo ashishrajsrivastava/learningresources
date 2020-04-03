@@ -3,11 +3,11 @@ Awesome learning resources on different technologies. Most if the content has be
 
 
 1. 
-<img src="/images/Az900.PNG" />
+![Azure 900](/Images/Az900.PNG)
 If you are looking in to start your Azure journey then this is going to be great resource for you. Microsoft not only providing free training for **Azure 900 Fundamental** but you will also receive **free vouchers** to give exam and earn certificate. You can access the details [here](https://info.microsoft.com/US-AzureApp-CATALOG-FY20-05May-12-TrainingAzure900fundamentalsforeducation-SRDEM15957_CatalogDisplayPage.html).
 <br/><br/>
 
-2. ![Google Cloud Plateform](/images/GCP.PNG)
+1. ![Google Cloud Plateform](/images/GCP.PNG)
 Google Cloud is also offering similar free resources for trainings. It comes with various technologies path trainings available on pluralsight or coursera. It also gives you free access to Qwiklabs for 30 days which enables to get hands on practice with having to pay anything. You can get more details [here](https://inthecloud.withgoogle.com/training-discount/register.html)
 <br/><br/>
 3. 
