@@ -48,3 +48,13 @@ Redhat is also offering 30 days free access to many trainings which are worth ap
 7. 
 ![Automate the Boring Stuff with Python Programming ](/Images/Udemy_Python_April2020.PNG)
 Udemy is offering course **Automate the Boring Stuff with Python Programming** worth 3200INR absolutely free. Click [here](https://www.udemy.com/course/automate/?couponCode=APR2020FREE) to avail this offer.
+
+8. 
+![Real Python](/Images/RealPython.PNG)
+Real python is giving away following video courses for free:
+- How to Publish Your Own Python Package to PyPI
+- Traditional Face Detection With Python
+- Functional Programming in Python
+- Cool New Features in Python 3.8
+
+To avail this offer click [here](https://realpython.com/redeem/3cfd9bbf-8676-4c82-b44b-93fc69bd4ede/).
