@@ -1,5 +1,5 @@
 # Awesome free learning resources during lockdown
-Awesome learning resources on different technologies. Most if the content has been made free during COVIT-19 lock-down. I will try to keep this updated frequently in future. If you find information on this page out of date, please feel free to open an issue with details. If you want to contribute, feel free to fork this repo, add your resources and create a PR.
+These learning resources on different technologies have been made free during COVIT-19 lockdown. However, i will try to keep this updated with free resources in future even after lockdown. If you find information on this page out of date, please open an issue with details and i will try to make corrections. If you want to contribute, feel free to fork this repo, add your resources by appending the list and create PR.
 
 
 1. 
@@ -34,7 +34,7 @@ To get more information and avail this offer you can click [here](https://www.or
 <br/><br/>
 6. 
 ![RedHat Trainings](/Images/RedHat.PNG)
-Redhat is also offering 30 days free access to many trainings which are worth approximately 10-15k INR. Here is the list of training that you can access free for 30 days. Click on the training title to avail this offer.<br/>
+Redhat is also offering 30 days free access to many trainings which are worth approximately 10-15k INR. Here is the list of training that you can access free for 30 days. Click on the training title to avail this offer.d<br/>
 
 - [Red Hat Enterprise Linux Technical Overview (RH024)](https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview)
 
