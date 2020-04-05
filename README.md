@@ -56,4 +56,9 @@ Real python is giving away following video courses for free:
 - Traditional Face Detection With Python
 - Functional Programming in Python
 - Cool New Features in Python 3.8
+<br/><br/>
 To avail this offer click [here](https://realpython.com/redeem/3cfd9bbf-8676-4c82-b44b-93fc69bd4ede/).
+<br/><br/>
+9. 
+![Udacity 2020](/Images/UdacityApril20.PNG)
+Udacity is giving away its popular nanodegree programms for 1 month absolutely free. You may access this offer by clicking [here](https://blog.udacity.com/2020/03/one-month-free-on-nanodegrees.html)
